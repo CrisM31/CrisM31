@@ -1,4 +1,13 @@
 ## ¡Hola a todos! Bievenido 👋 
+<h3 align="center">📊 Analista de Datos | Revenue Management | Data Science en formación</h3>
+
+<br/>
+
+<p align="center">
+  Analista de datos con experiencia en Revenue Management, especializado en análisis 
+  de precios, márgenes de contribución y dashboards ejecutivos. Actualmente 
+  profundizando en Data Science aplicado a negocios en Unicorn Academy.
+</p>
 
 <!--
 **CrisM31/CrisM31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
