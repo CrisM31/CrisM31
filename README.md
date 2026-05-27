@@ -1,5 +1,5 @@
 ## ¡Hola a todos! Bievenido 👋 
-<h3 align="center">📊 Analista de Datos | Revenue Management | Data Science en formación</h3>
+<h3 align="center">📊 Data Analyst | Revenue Management </h3>
 
 <br/>
 
