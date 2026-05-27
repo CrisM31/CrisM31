@@ -1,10 +1,10 @@
-## ¡Bievenido!, soy Cristóbal 👋 
+## ¡Bienvenido!, soy Cristóbal 👋 
 <h3 align="center">📊 Data Analyst - Revenue Management </h3>
 
 <br/>
 
 <p align="center">
-  Ingeniero Comercial con experiencia en Analisis de Datos y Revenue Management, on foco en la construcción de reportes y dashboards ejecutivos. Analizo información 
+  Ingeniero Comercial con experiencia en Analisis de Datos y Revenue Management, con foco en la construcción de reportes y dashboards ejecutivos. Analizo información 
 de negocio para encontrar insights accionables que apoyen la toma de decisiones estratégicas basadas en datos.
 </p>      
 
