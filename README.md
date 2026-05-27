@@ -1,13 +1,21 @@
-## ¡Hola a todos! Bievenido 👋 
-<h3 align="center">📊 Data Analyst | Revenue Management </h3>
+## ¡Bievenido!, soy Cristóbal 👋 
+<h3 align="center">📊 Data Analyst - Revenue Management </h3>
 
 <br/>
 
 <p align="center">
-  Analista de datos con experiencia en Revenue Management, especializado en análisis 
-  de precios, márgenes de contribución y dashboards ejecutivos. Actualmente 
-  profundizando en Data Science aplicado a negocios en Unicorn Academy.
-</p>
+  Ingeniero Comercial con experiencia en Analisis de Datos y Revenue Management, on foco en la construcción de reportes y dashboards ejecutivos. Analizo información 
+de negocio para encontrar insights accionables que apoyen la toma de decisiones estratégicas basadas en datos.
+</p>      
+
+## 🛠️ Stack de herramientas
+### 📈 Análisis & Visualización
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+
 
 <!--
 **CrisM31/CrisM31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
