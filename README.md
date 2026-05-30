@@ -1,4 +1,4 @@
-## ¡Bienvenido!, soy Cristóbal 👋
+## ¡Bienvenido/a!, soy Cristóbal 👋
 <h3 align="center">📊 Data Analyst - Revenue Management</h3>
 
 <br/>
