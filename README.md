@@ -18,7 +18,8 @@
 
 | Proyecto | Herramienta | Descripción |
 |----------|-------------|-------------|
-| Próximamente | Excel / Power BI | Dashboard de ventas y márgenes por canal |
+| [📞 Call Center Arcoiris](https://crism31.github.io/call-center-arcoiris/) | Google Sheets | Análisis de rendimiento de 50 agentes: eficiencia en llamadas, ventas y calidad de servicio |
+| Próximamente | Power BI | Dashboard de ventas y márgenes por canal |
 | Próximamente | Python | Análisis exploratorio de datos |
 | Próximamente | SQL | Consultas y modelado de datos |
 
