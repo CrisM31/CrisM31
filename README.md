@@ -1,5 +1,5 @@
 ## ¡Bienvenido/a!, soy Cristóbal 👋
-<h3 align="center">📊 Ingeniero Comercial - Data Analyst</h3>
+<h3 align="center">📊 Ingeniero Comercial - Analista de Datos</h3>
 
 <br/>
 
